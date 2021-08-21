@@ -40,16 +40,16 @@ Before starting, make sure you have **[NODE.JS](https://www.nodejs.org/en)** ins
      if you have any Problems contact me on Discord : `ZYROZ#2245`
   
 View the List of Commands here:
-`!help`
-`prefix`
-`!passgen`
-`!meme`
+`!help` <br>
+`prefix`<br>
+`!passgen`<br>
+`!meme`<br>
 Admin Commands (Administrator Permissions needed):
-`!mute`
-`!unmute`
-`!clear`
-`!setprefix`
-    **Node!** The Prefix depends on the **Prefix** you write in the **config.json** File, that means it could be something else than `!`
+`!mute`<br>
+`!unmute`<br>
+`!clear`<br>
+`!setprefix`<br>
+ **Node!** The Prefix depends on the **Prefix** you write in the **config.json** File, that means it could be something else than `!`
 
 Example Pictures:
 ## Help Menu
