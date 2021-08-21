@@ -39,20 +39,26 @@ Before starting, make sure you have **[NODE.JS](https://www.nodejs.org/en)** ins
      and that's it!
      if you have any Problems contact me on Discord : `ZYROZ#2245`
   
+View the List of Commands here:
+`!help`
+`prefix`
+`!passgen`
+`!meme`
+Admin Commands (Administrator Permissions needed):
+`!mute`
+`!unmute`
+`!clear`
+`!setprefix`
+    **Node!** The Prefix depends on the **Prefix** you write in the **config.json** File, that means it could be something else than `!`
 
-    View the List of Commands here:
-    `!help`
-    `prefix`
-    `!passgen`
-    `!meme`
-    Admin Commands (Administrator Permissions needed):
-    `!mute`
-    `!unmute`
-    `!clear`
-    `!setprefix`
-    **Node!** the Prefix depends on the Prefix you write in the Config file, that means i could be somethign else than `!`
+Example Pictures:
+## Help Menu
 
 ![image](https://cdn.discordapp.com/attachments/878607665952075816/878607998711365662/unknown.png)
+## PassGen Command
+![image](https://cdn.discordapp.com/attachments/878607665952075816/878616358810701934/unknown.png)
+## Meme Command
+![image](https://cdn.discordapp.com/attachments/857968166202507313/878618064718016532/unknown.png)
 
   
   
