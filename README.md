@@ -27,7 +27,7 @@ Before starting, make sure you have **[NODE.JS](https://www.nodejs.org/en)** ins
 
 # HOW TO USE ON REPLIT
 
-1. **Just download this Repository as .zip**
+1. **Press deploy to Replit**
 
 3. Edit the **config.js** file. **NODE!** You have to change all Things
 
@@ -35,7 +35,7 @@ Before starting, make sure you have **[NODE.JS](https://www.nodejs.org/en)** ins
 
 5. You can get your **TOKEN** from [here](https://discord.com/developers/applications)
 
-6. To start the Bot run the **run.bat** file!
+6. To start the Bot press **RUN**!
      and that's it!
      if you have any Problems contact me on Discord : `ZYROZ#2245`
   
@@ -50,6 +50,7 @@ Before starting, make sure you have **[NODE.JS](https://www.nodejs.org/en)** ins
     `!unmute`
     `!clear`
     `!setprefix`
+    **Node!** the Prefix depends on the Prefix you write in the Config file, that means i could be somethign else than `!`
 
 ![image](https://cdn.discordapp.com/attachments/878607665952075816/878607998711365662/unknown.png)
 
@@ -60,4 +61,4 @@ Please subscribe to [ZYROZ](https://www.youtube.com/xzynn?sub_confirmation=1) on
 
   
 
-Feel free to Donate me something on [PayPal](https://api.snowflakedev.xyz/)!
+Feel free to Donate me something on [PayPal](paypal.me/DevZyroz)!
