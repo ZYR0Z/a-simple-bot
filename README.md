@@ -13,33 +13,80 @@ Before starting, make sure you have **[NODE.JS](https://www.nodejs.org/en)** ins
 # HOW TO USE ON DESKTOP
 
 1. **Just download this Repository as .zip**
+2. **Create a Bot [here](https://discord.com/developers/applications/)!** ([Documentation how to create a Bot]())
+3. Open the Project in VSC ([Visual Studio Code](https://code.visualstudio.com/))
 
-3. Edit the **config.js** file. **NODE!** You have to change all Things
+4. Edit the **config.js** file. **NODE!** You have to change all Things:<br>
+You can get your **TOKEN** from [here](https://discord.com/developers/applications)
+```json 
+{
 
-4. Ensure that you have put your **TOKEN**, **PREFIX**, **EMBED COLOR**, **STATUS**, **MAIN ROLE** and **MUTED ROLE** in the file.
+	"TOKEN" : "ENTER TOKEN HERE!",
 
-5. You can get your **TOKEN** from [here](https://discord.com/developers/applications)
+	"PREFIX" : "ENTER PREFIX HERE!",
 
-6. To start the Bot run the **run.bat** file!
+	"EMBED_COLOR" : "ENTER HEX COLOR CODE HERE!",
+
+	"STATUS" : "ENTER STATUS HERE!",
+
+	"MAIN_ROLE" : "ENTER MAIN ROLE NAME HERE!",
+
+	"MUTED_ROLE" : "ENTER MUTED ROLE NAME HERE!"
+
+}
+```
+5. Ensure that you have all Things in the file, otherwise the Bot wont work!
+
+6. To start the Bot run the Command :
+	```sh
+	node index.js
+	```
      and that's it!
-     if you have any Problems contact me on Discord : `ZYROZ#2245`
+     
+     If this doesnt work type:
+	  ```sh
+	npm i discord.js@^12.5.3, got@latest, ultrax@latest
+	```
+     if you have any Problems feel free tocontact me on Discord : `ZYROZ#2245`
 
 
 # HOW TO USE ON REPLIT
 
-1. **Press deploy to Replit**
+1. Go to **[Replit](https://replit.com/~)**
+2. Make a new Repl, and press Import from GitHub, then type:
+	```sh
+	https://github.com/ZYR0Z/a-simple-bot
+	```
+	![image](https://cdn.discordapp.com/attachments/857968166202507313/878627909022126141/unknown.png)
 
-3. Edit the **config.js** file. **NODE!** You have to change all Things
+3. Edit the **config.js** file. **NODE!** You have to change all Things:<br>
+	You can get your **TOKEN** from [here](https://discord.com/developers/applications)
 
-4. Ensure that you have put your **TOKEN**, **PREFIX**, **EMBED COLOR**, **STATUS**, **MAIN ROLE** and **MUTED ROLE** in the file.
+```json 
+{
 
-5. You can get your **TOKEN** from [here](https://discord.com/developers/applications)
+	"TOKEN" : "ENTER TOKEN HERE!",
 
-6. To start the Bot press **RUN**!
-     and that's it!
-     if you have any Problems contact me on Discord : `ZYROZ#2245`
+	"PREFIX" : "ENTER PREFIX HERE!",
+
+	"EMBED_COLOR" : "ENTER HEX COLOR CODE HERE!",
+
+	"STATUS" : "ENTER STATUS HERE!",
+
+	"MAIN_ROLE" : "ENTER MAIN ROLE NAME HERE!",
+
+	"MUTED_ROLE" : "ENTER MUTED ROLE NAME HERE!"
+
+}
+```
+
+3. Ensure that you have all Things in the file, otherwise the Bot wont work!
+
+4. To start the Bot press **RUN** and that's it!<br>
+This could take some time but please wait and let him do the installation!
+If you have any Problems contact me on Discord : `ZYROZ#2245`
   
-View the List of Commands here:<br>
+View the List of Commands here:
 `!help` <br>
 `prefix`<br>
 `!passgen`<br>
@@ -47,9 +94,9 @@ View the List of Commands here:<br>
 Admin Commands (Administrator Permissions needed):<br>
 `!mute`<br>
 `!unmute`<br>
-`!clear`<br>
-`!setprefix`<br>
- **Node!** The Prefix depends on the **Prefix** you write in the **config.json** File, that means it could be something else than `!`
+`!clear`<>
+`!setprefix`
+    **Node!** The Prefix depends on the **Prefix** you write in the **config.json** File, that means it could be something else than `!`
 
 Example Pictures:
 ## Help Menu
@@ -64,6 +111,9 @@ Example Pictures:
   
 
 Please subscribe to [ZYROZ](https://www.youtube.com/xzynn?sub_confirmation=1) on YouTube if you want a small Tutorial Series for this Bot :)
+```sh
+npm install
+```
 
   
 
