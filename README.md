@@ -39,12 +39,12 @@ Before starting, make sure you have **[NODE.JS](https://www.nodejs.org/en)** ins
      and that's it!
      if you have any Problems contact me on Discord : `ZYROZ#2245`
   
-View the List of Commands here:
+View the List of Commands here:<br>
 `!help` <br>
 `prefix`<br>
 `!passgen`<br>
 `!meme`<br>
-Admin Commands (Administrator Permissions needed):
+Admin Commands (Administrator Permissions needed):<br>
 `!mute`<br>
 `!unmute`<br>
 `!clear`<br>
