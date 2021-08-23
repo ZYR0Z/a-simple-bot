@@ -111,10 +111,5 @@ Example Pictures:
   
 
 Please subscribe to [ZYROZ](https://www.youtube.com/xzynn?sub_confirmation=1) on YouTube if you want a small Tutorial Series for this Bot :)
-```sh
-npm install
-```
-
-  
 
 Feel free to Donate me something on [PayPal](paypal.me/DevZyroz)!
