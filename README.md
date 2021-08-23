@@ -94,8 +94,8 @@ View the List of Commands here:
 Admin Commands (Administrator Permissions needed):<br>
 `!mute`<br>
 `!unmute`<br>
-`!clear`<>
-`!setprefix`
+`!clear`<br>
+`!setprefix`<br>
     **Node!** The Prefix depends on the **Prefix** you write in the **config.json** File, that means it could be something else than `!`
 
 Example Pictures:
