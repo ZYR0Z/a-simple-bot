@@ -1,4 +1,4 @@
-# A Simple Bot
+# [Outdated] ~~A Simple Bot~~
 
 # Make a cool Bot  *whithout* Coding!
 
